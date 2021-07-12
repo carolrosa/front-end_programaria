@@ -1,3 +1,5 @@
 Este é o exemplo 1 para acompanhamento no GIT
 ALTERADO!
 Agora alterado pelo repositório cloneGIT
+
+ATUALIZADO DO CLONE

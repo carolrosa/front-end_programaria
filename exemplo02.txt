@@ -1,3 +1,0 @@
-Este é o exemplo 2 para acompanhamento no GIT
-
-ATUALIZADO DO CLONE
